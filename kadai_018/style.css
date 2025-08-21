@@ -26,7 +26,7 @@
 #middle-child01,#middle-child02,#middle-child03 {
   width: 200px;
   height: 200px;
-  background-color: #87ceed;
+  background-color: #87ceeb;
 }
 
 #middle-child01 {
@@ -50,7 +50,7 @@
 #bottom {
   width: 800px;
   height: 300px;
-  background-color: #87ceed;
+  background-color: #87ceeb;
   margin-left: auto;
   margin-right: auto;
 }
